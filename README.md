@@ -1,9 +1,7 @@
-[![MasterHead](https://www.syncfusion.com/blogs/wp-content/uploads/2020/07/Top-6-Front-End-Web-Development-Tools-to-Increase-Your-Productivity-in-2020-1.jpg)](https://fiagafils.netlify.app)
+[![MasterHead](http://www.parzlogic.com/wp-content/uploads/2017/10/web-dev.jpg)](https://fiagafils.netlify.app)
 
 <h1 align="center">Hi 👋, I'm Fiaga Fils</h1>
 <h3 align="center">A passionate frontend developer from Cameroon</h3>
-
-<p style='heigth:400px; width:600px; overflow:hidden' align="left"> <img src=""  style=' object-fit:cover' alt="fiagafils10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fiagafils10" alt="fiagafils10" /></a> </p>
 
